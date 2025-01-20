@@ -9,7 +9,7 @@ CreOwn aims to solve challenges in the ghostwriting industry, such as underpayme
 
 ## Features
 
-- Decentralized Marketplace: Built on blockchain for enhanced transparency and security.
+- Decentralized Marketplace: Built on Lisk blockchain for enhanced transparency and security.
 
 - Pay-Per-Read Model: Writers earn based on engagement with their content.
 
